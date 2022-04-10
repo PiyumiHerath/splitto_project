@@ -41,3 +41,4 @@ The above commands will start the server. To start the application, navigate bac
 `ng serve` OR
 `ng serve --open --poll=100`
 "# project_splitto" 
+"# splitto_project" 
