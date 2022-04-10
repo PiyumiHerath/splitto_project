@@ -34,6 +34,10 @@ To start the web application, we firstly need to start the server.Open the termi
 
 `python manage.py runserver`
 
-The above commands will start the server.Now to start the application, navigate back to the project directory and open a new terminal over there and type the following command:
+(You will need to install django, django restframework and Pillow libraries if they have not been installed already)
 
+The above commands will start the server. To start the application, navigate back to the project directory and open a new terminal and give the command:
+
+`ng serve` OR
 `ng serve --open --poll=100`
+"# project_splitto" 
