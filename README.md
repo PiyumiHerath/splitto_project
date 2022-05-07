@@ -24,9 +24,9 @@ To start the web application, we firstly need to start the server.Open the termi
 
 The above commands will start the server. To start the application, navigate back to the project directory and open a new terminal and give the command:
 
-`npm install` 
+`npm install` - To download and install npm packages
 
-`ng serve` OR
-`ng serve --open --poll=100`
+`ng serve` OR 
+`ng serve --open --poll=100` - To run the project locally
 
 "# splitto_project" 
