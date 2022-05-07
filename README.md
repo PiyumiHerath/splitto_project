@@ -20,7 +20,11 @@ To start the web application, we firstly need to start the server.Open the termi
 
 `python manage.py runserver`
 
-(You will need to install django, django restframework and Pillow libraries if they have not been installed already)
+(You will need to install django, django restframework and Pillow libraries if they have not been installed already
+- To download and insrall Django in Windows environment, use `pip install django`
+- CD into the folder cotaning manage.py file and `python manage.py runserver`
+)
+
 
 The above commands will start the server. To start the application, navigate back to the project directory and open a new terminal and give the command:
 
